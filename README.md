@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sergi0let
+- 👋 Hi, I’m Sergiy
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate in web-development
