@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sergiy
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m @Sergi0let
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently working with JS, HTML, CSS, React, Redux, Next.js, TS
 - 💞️ I’m looking to collaborate in web-development
 - 📫 How to reach me s.vashkevych.gmail.com
 
