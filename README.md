@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Sergi0let
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently working with JS, HTML, CSS, React, Redux, Next.js, TS
-- 💞️ I’m looking to collaborate in web-development
-- 📫 How to reach me s.vashkevych.gmail.com
+- 👋 Hi, I’m Sergij
+- 👀 I’m a front-end developer with a keen interest in back-end development
+- 🌱 Currently working with JavaScript, TypeScript, PHP, React, Next.js, WordPress, Sanity, and Strapi
+- 💼 Open to collaboration in web development
+
+📫 Feel free to reach out:
+[LinkedIn](https://www.linkedin.com/in/sergij-vashkevych-0b069221b/) | [Gmail](mailto:s.vashkevych@gmail.com) | [Telegram](https://t.me/serg_v6)
+| [WhatsApp](https://wa.me/+380 99 623 0466)
 
 <!---
 Sergi0let/Sergi0let is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
