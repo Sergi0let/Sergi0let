@@ -5,7 +5,7 @@
 
 📫 Feel free to reach out:
 [LinkedIn](https://www.linkedin.com/in/sergij-vashkevych-0b069221b/) | [Gmail](mailto:s.vashkevych@gmail.com) | [Telegram](https://t.me/serg_v6)
-| [WhatsApp](https://wa.me/+380 99 623 0466)
+| [WhatsApp](https://wa.me/+380996230466)
 
 <!---
 Sergi0let/Sergi0let is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
